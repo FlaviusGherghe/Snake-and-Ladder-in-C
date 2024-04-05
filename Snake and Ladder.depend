@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712335510 source:d:\invatat\c\projects\snake and ladder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
